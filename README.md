@@ -9,3 +9,4 @@ https://blog.naver.com/hansong0219/222035594717
 3. Tensorflow.js 
 
 ## Pre-Trained Model 학습 방법 
+https://github.com/ianscottknight/Predicting-Myers-Briggs-Type-Indicator-with-Recurrent-Neural-Networks
