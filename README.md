@@ -6,9 +6,12 @@
 https://blog.naver.com/hansong0219/222035594717
 
 ## 개발 환경(미정)
-1. Node.js
-2. React
-3. Tensorflow.js 
+Node.js 12.18.2
+React 16.7
+Tensorflow.js
 
-## Pre-Trained Model 학습 방법 
+## Pre-Trained Model 학습 Source 및 학습 관련 상세 
+학습 Source:
 https://github.com/ianscottknight/Predicting-Myers-Briggs-Type-Indicator-with-Recurrent-Neural-Networks
+학습 관련 내용 서술
+https://blog.naver.com/hansong0219/222034520885
