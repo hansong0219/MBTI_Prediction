@@ -6,8 +6,10 @@
 https://blog.naver.com/hansong0219/222035594717
 
 ## 개발 환경(미정)
-Node.js 12.18.2
-React 16.7
+Node.js = 12.18.2
+
+React = 16.7
+
 Tensorflow.js
 
 ## Pre-Trained Model 학습 Source 및 학습 관련 상세 
